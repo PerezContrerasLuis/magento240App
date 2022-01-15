@@ -1,4 +1,8 @@
 #magento 2.4.0
+Repositorio para ayudar a los nuevos desarrolladores de Magento 2 a comprender cómo está estructurado Magento 2, 
+qué herramientas están disponibles para realizar una personalización requerida y poder desarrollar sus propios módulos. 
+Aprenderá conceptos clave de Magento 2, como la inserción de dependencias, el sistema de diseño, las clases de acción, el esquema de la base de datos, la API web.
+
 # php  =>  Version 7.4.27
 # ElasticSearch  =>  Version 7.16.2
 
