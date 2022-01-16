@@ -293,6 +293,7 @@ return [
         'Klarna_Ordermanagement' => 1,
         'Klarna_Onsitemessaging' => 1,
         'Klarna_Kp' => 1,
+        'Learning_HelloPage' => 1,
         'Luisdev_Helloworld' => 1,
         'PayPal_Braintree' => 1,
         'PayPal_BraintreeGraphQl' => 1,
