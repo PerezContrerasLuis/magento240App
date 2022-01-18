@@ -293,6 +293,7 @@ return [
         'Klarna_Ordermanagement' => 1,
         'Klarna_Onsitemessaging' => 1,
         'Klarna_Kp' => 1,
+        'Learning_ClothingMaterial' => 1,
         'Learning_FirstUnit' => 1,
         'Learning_HelloPage' => 1,
         'Luisdev_Helloworld' => 1,
