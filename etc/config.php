@@ -296,6 +296,7 @@ return [
         'Learning_ClothingMaterial' => 1,
         'Learning_FirstUnit' => 1,
         'Learning_HelloPage' => 1,
+        'Learning_Js' => 1,
         'Luisdev_Helloworld' => 1,
         'PayPal_Braintree' => 1,
         'PayPal_BraintreeGraphQl' => 1,
