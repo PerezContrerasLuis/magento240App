@@ -1,3 +1,46 @@
 <div id="contactslist">
-    my contact list
+    <h2>empty</h2>
+    <table>
+        <tr>
+            <th>Name</th>
+        </tr>
+        <?php $contacts = $this->getData('contacts'); ?>
+        <?php foreach ($contacts as $contact): ?>
+            <tr>
+                <td><?php echo $contact ?></td>
+            </tr>
+        <?php endforeach; ?>
+        <tr>
+            <td>there is no contact in this list</td>
+        </tr>
+    </table>
+
+
+    <h2>10 éléments</h2>
+    <table>
+        <tr>
+            <th>Name</th>
+        </tr>
+        <?php $this->addContacts(10); ?>
+        <?php $contacts = $this->getData('contacts'); ?>
+        <?php foreach ($contacts as $contact): ?>
+            <tr>
+                <td><?php echo $contact ?></td>
+            </tr>
+        <?php endforeach; ?>
+    </table>
+
+    <h2>20 éléments</h2>
+    <table>
+        <tr>
+            <th>Name</th>
+        </tr>
+        <?php $this->addContacts(10); ?>
+        <?php $contacts = $this->getData('contacts'); ?>
+        <?php foreach ($contacts as $contact): ?>
+            <tr>
+                <td><?php echo $contact ?></td>
+            </tr>
+        <?php endforeach; ?>
+    </table>
 </div>
