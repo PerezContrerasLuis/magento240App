@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Pfay_Contacts" title="Pierre FAY Contacts" module="Pfay_Contacts" sortOrder="20" dependsOnModule="Pfay_Contacts" resource="Pfay_Contacts::contacts"/>
+        <add id="Pfay_Contacts::index" title="Pierre FAY Contacts" module="Pfay_Contacts" action="contacts/test/index" parent="Pfay_Contacts" sortOrder="20" dependsOnModule="Pfay_Contacts" resource="Pfay_Contacts::contacts"/>
+    </menu>
+</config>
