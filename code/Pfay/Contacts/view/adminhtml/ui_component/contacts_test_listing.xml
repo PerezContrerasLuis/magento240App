@@ -14,11 +14,12 @@
         <item name="buttons" xsi:type="array">
             <item name="add" xsi:type="array">
                 <item name="name" xsi:type="string">add</item>
-                <item name="label" xsi:type="string" translate="true">Add a new Contact</item>
+                <item name="label" xsi:type="string" translate="true">Add a new contact</item>
                 <item name="class" xsi:type="string">primary</item>
-                <item name="url" xsi:type="string">*/*/newAction</item>
+                <item name="url" xsi:type="string">*/*/add</item>
             </item>
         </item>
+        
     </argument>
 
     <!-- define the date source (must be the same than in argument/item/provider and argument/js_config/deps -->
