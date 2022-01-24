@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Event/etc/events.xsd">
+    <event name="pfay_contacts_event_test">
+        <observer name="pfay_contacts_observer_test" instance="Pfay\Contacts\Observer\TestObserver" />
+    </event>
+</config>
