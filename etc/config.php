@@ -299,6 +299,7 @@ return [
         'Learning_HelloPage' => 1,
         'Learning_Js' => 1,
         'Luisdev_Helloworld' => 1,
+        'Mageplaza_HelloWorld' => 1,
         'PayPal_Braintree' => 1,
         'PayPal_BraintreeGraphQl' => 1,
         'Pfay_Contacts' => 1,
