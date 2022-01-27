@@ -3,7 +3,10 @@ define([
 ], function($){
         "use strict";
         return function(config, element) {
-            alert(config.message);
+            //alert(config.message);
+            $( "#clk" ).click(function() {
+                alert( "Handler for .click() called." );
+              });
         }
     }
 )
