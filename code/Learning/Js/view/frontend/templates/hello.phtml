@@ -22,3 +22,38 @@
 </div>
 
 
+
+<div id='popup-modal'>
+        <h1> Hi I'm here.... </h1>
+    </div>
+    <script>
+        require(
+            [
+                'jquery',
+                'Magento_Ui/js/modal/modal'
+            ],
+            function(
+                $,
+                modal
+            ) {
+                var options = {
+                    type: 'popup',
+                    responsive: true,
+                    innerScroll: true,
+                    title: 'popup modal title',
+                    buttons: [{
+                        text: $.mage.__('Continue'),
+                        class: '',
+                        click: function () {
+                            this.closeModal();
+                        }
+                    }]
+                };
+    
+                var popup = modal(options, $('#popup-modal'));
+    
+                $('#popup-modal').modal('openModal');
+            }
+        );
+    </script>
+
