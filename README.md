@@ -19,4 +19,4 @@ Aprenderá conceptos clave de Magento 2, como la inserción de dependencias, el 
     # libapreq 2.13, FPDF 1.7, ICU4C Library 66.1, APR 1.5.2, APR-utils 1.5.4 
 
 # S.O 
-    # Darwin MacBook 21.2.0 Darwin Kernel Version 21.2.0: Sun Nov 28 20:29:10 PST 2021; root:xnu-8019.61.5~1/RELEASE_ARM64_T8101 arm64
+    # Darwin MacBook 21.2.0 Darwin Kernel Version 21.2.0: 
