@@ -56,8 +56,8 @@ _Indice_
     <li>
       <a href="#about-the-project">Creacion y activacion de modulo</a>
       <ul>
-        <a href="https://github.com/PerezContrerasLuis/magento240App/commit/38ff335bb31ba65677bd2bbd28fb65f704fa6612"> Ejemplo 1</a>
-        <a href="https://github.com/PerezContrerasLuis/magento240App/commit/7c3a945a9b3590ee981a90d892adace1081a900c"> Ejemplo 2</a>
+       <li><a href="https://github.com/PerezContrerasLuis/magento240App/commit/38ff335bb31ba65677bd2bbd28fb65f704fa6612"> Ejemplo 1</a></li>
+       <li><a href="https://github.com/PerezContrerasLuis/magento240App/commit/7c3a945a9b3590ee981a90d892adace1081a900c"> Ejemplo 2</a></li>
       </ul>
     </li>
     <li>
@@ -99,9 +99,9 @@ _Indice_
     <li>
       <a href="#about-the-project">Creación de lista UIComponent en administrador de Magento </a>
       <ul>
-        <a href="https://github.com/PerezContrerasLuis/magento240App/commit/f00f26caa1b7af633a3a9a0c434ca399a5b29df2">Creacion GRID (tabla | regilla) que lista los contactos existentes Parte 1/3</a>
-        <a href="https://github.com/PerezContrerasLuis/magento240App/commit/076501b017272fc7ddb83f825d73de63ad79a75b">Agregamos accion de boton (Add a new contact) Parte 2/3</a>
-        <a href="https://github.com/PerezContrerasLuis/magento240App/commit/8a4b633da6fff1cef094059fc77a29cbe57aacc5">Creación de elementos no obligatorios Parte 3/3</a>
+      <li><a href="https://github.com/PerezContrerasLuis/magento240App/commit/f00f26caa1b7af633a3a9a0c434ca399a5b29df2">Creacion GRID (tabla | regilla) que lista los contactos existentes Parte 1/3</a></li>
+      <li><a href="https://github.com/PerezContrerasLuis/magento240App/commit/076501b017272fc7ddb83f825d73de63ad79a75b">Agregamos accion de boton (Add a new contact) Parte 2/3</a></li>
+      <li><a href="https://github.com/PerezContrerasLuis/magento240App/commit/8a4b633da6fff1cef094059fc77a29cbe57aacc5">Creación de elementos no obligatorios Parte 3/3</a></li>
       </ul>
     </li>
     <li>
@@ -116,11 +116,11 @@ _Indice_
     <li>
       <a href="#about-the-project">Pagina [vista] en el FRONTEND que cargue los registros de una tabla</a>
       <ul>
-        <a href="https://github.com/PerezContrerasLuis/magento240App/commit/16f8c38b770c34f4c47fa81adb58aa6fa764c6e9"> Creacion de modulo Parte 1/5</a>
-        <a href="https://github.com/PerezContrerasLuis/magento240App/commit/6fdc2dbb6535c12b7281a15cef59751bf2fb39a1"> Creacion de tabla [mageplaza_helloworld_post] Parte 2/5</a>
-        <a href="https://github.com/PerezContrerasLuis/magento240App/commit/f7663d90ac0fe8a2517b13b552122f2906b29b0b"> Creacion demodelos para conectar a la BDDParte 3/5</a>
-        <a href="https://github.com/PerezContrerasLuis/magento240App/commit/7581e7b79251a33da1a99e67d0233ac4b617a1fa"> Cracion de objeto de fabrica Parte 4/5</a>
-        <a href="https://github.com/PerezContrerasLuis/magento240App/commit/b019792e6f9b5597c288dd9eed69ef04807c3c1d"> Listado del contenido de una tabla Parte 5/5</a>
+        <li><a href="https://github.com/PerezContrerasLuis/magento240App/commit/16f8c38b770c34f4c47fa81adb58aa6fa764c6e9"> Creacion de modulo Parte 1/5</a></li>
+        <li><a href="https://github.com/PerezContrerasLuis/magento240App/commit/6fdc2dbb6535c12b7281a15cef59751bf2fb39a1"> Creacion de tabla [mageplaza_helloworld_post] Parte 2/5</a></li>
+        <li><a href="https://github.com/PerezContrerasLuis/magento240App/commit/f7663d90ac0fe8a2517b13b552122f2906b29b0b"> Creacion demodelos para conectar a la BDDParte 3/5</a></li>
+        <li><a href="https://github.com/PerezContrerasLuis/magento240App/commit/7581e7b79251a33da1a99e67d0233ac4b617a1fa"> Cracion de objeto de fabrica Parte 4/5</a></li>
+        <li><a href="https://github.com/PerezContrerasLuis/magento240App/commit/b019792e6f9b5597c288dd9eed69ef04807c3c1d"> Listado del contenido de una tabla Parte 5/5</a></li>
       </ul>
     </li>
     <li>
