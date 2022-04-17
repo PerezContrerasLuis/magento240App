@@ -18,6 +18,8 @@ _
 _Version de magento usada para este repo : _
 
 ```
+*****  magento 2.4.0 *****
+Requerimientos especificos para la version : https://devdocs.magento.com/guides/v2.4/install-gde/system-requirements.html
 php  =>  Version 7.4.27
 ElasticSearch  =>  Version 7.16.2
 ```
