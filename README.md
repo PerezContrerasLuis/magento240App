@@ -59,7 +59,7 @@ ElasticSearch  =>  Version 7.16.2
                   <li><a href="https://github.com/PerezContrerasLuis/magento240App/commit/b13229683ed075a9df05ce96c2a0a429a01d91a0">2 Creecion de archivo de configuración RequireJS personalizado</a></li>
                   <li><a href="https://github.com/PerezContrerasLuis/magento240App/commit/f0940f6e200ba80381d5ed8e542170ec9e53a962">3 Reusando modulo con MAP</a></li>
                   <li><a href="https://github.com/PerezContrerasLuis/magento240App/commit/7a8e84cf1bf4f39a5b2627f3665fbe5b58dee134">4 Agregando librerías de un CDN</a></li>
-                  <li><a href="#">...</a></li>
+                  <li><a href="https://github.com/PerezContrerasLuis/magento240App/commit/153b463dae7550029f7f8bfc182cd98781431362">Inicializar declarativamente un componente de JavaScript</a></li>
                </ul>
             </li>
          </ul>
